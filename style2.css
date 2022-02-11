@@ -1,0 +1,10 @@
+div.exo2 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: 2s ease-in;
+}
+div.exo2:hover {
+    width: 300px;
+    transition: 2s ease-in-out;
+}
